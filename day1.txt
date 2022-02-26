@@ -1,2 +1,2 @@
 This is day1
-This is new
+This is new day1 text
